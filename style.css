@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #101b33;
+  color: white;
+  max-width: 600px;
+  margin: 60px auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #8ecaff;
+}
+
+#checklist {
+  background: #20304d;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
